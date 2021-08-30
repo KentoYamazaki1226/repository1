@@ -1,0 +1,29 @@
+
+.h2{
+    font-size:32px;
+    color:black;
+}
+
+.sample1{
+    display: inline-block;
+    text-align:left;
+    }
+
+form{
+    width:250px;
+    border:solid 1px blank;
+}
+label{
+    display:block;
+}
+.example{
+    text-align:left;
+}
+h1{
+    color:black;
+    font-size:40px;
+}
+.red{
+    color:red;
+}
+
